@@ -1,0 +1,25 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Tension Adjustment Algorithm
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Koray
+    family-names: Yavuz
+    email: yy.koray@gmail.com
+    affiliation: Bilkent University
+    orcid: 'https://orcid.org/0000-0003-1207-2602'
+repository-code: >-
+  https://github.com/Korayspi/Spider-Web/tree/main/Tension%20Adjustment%20Algorithm
+abstract: >-
+  This is a tension adjustment algorithm used in my
+  research. First radii are tensed then the spirals are
+  added.
+license: CC-BY-4.0
+commit: '1'
+version: '1.0'
+date-released: '2024-05-10'
